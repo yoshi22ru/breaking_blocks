@@ -46,182 +46,47 @@
     <Analyzer Include="/Applications/Unity/Hub/Editor/6000.0.49f1/Unity.app/Contents/Tools/Unity.SourceGenerators/Unity.SourceGenerators.dll" />
     <Analyzer Include="/Applications/Unity/Hub/Editor/6000.0.49f1/Unity.app/Contents/Tools/Unity.SourceGenerators/Unity.Properties.SourceGenerator.dll" />
     <Analyzer Include="/Applications/Unity/Hub/Editor/6000.0.49f1/Unity.app/Contents/Tools/Unity.SourceGenerators/Unity.UIToolkit.SourceGenerator.dll" />
-    <Analyzer Include="/Users/tdu.yamazaki.lab/Breaking_blocks/Library/PackageCache/com.unity.entities@1eebe0437e56/Unity.Entities/SourceGenerators/AspectGenerator.dll" />
-    <Analyzer Include="/Users/tdu.yamazaki.lab/Breaking_blocks/Library/PackageCache/com.unity.entities@1eebe0437e56/Unity.Entities/SourceGenerators/JobEntityGenerator.dll" />
-    <Analyzer Include="/Users/tdu.yamazaki.lab/Breaking_blocks/Library/PackageCache/com.unity.entities@1eebe0437e56/Unity.Entities/SourceGenerators/SystemGenerator.dll" />
-    <Analyzer Include="/Users/tdu.yamazaki.lab/Breaking_blocks/Library/PackageCache/com.unity.entities@1eebe0437e56/Unity.Entities/SourceGenerators/Unity.Entities.Analyzer.dll" />
-    <Analyzer Include="/Users/tdu.yamazaki.lab/Breaking_blocks/Library/PackageCache/com.unity.entities@1eebe0437e56/Unity.Entities/SourceGenerators/SystemGenerator.LambdaJobs.dll" />
-    <Analyzer Include="/Users/tdu.yamazaki.lab/Breaking_blocks/Library/PackageCache/com.unity.entities@1eebe0437e56/Unity.Entities/SourceGenerators/SystemGenerator.SystemAPI.QueryBuilder.dll" />
-    <Analyzer Include="/Users/tdu.yamazaki.lab/Breaking_blocks/Library/PackageCache/com.unity.entities@1eebe0437e56/Unity.Entities/SourceGenerators/SystemGenerator.SystemAPI.dll" />
-    <Analyzer Include="/Users/tdu.yamazaki.lab/Breaking_blocks/Library/PackageCache/com.unity.entities@1eebe0437e56/Unity.Entities/SourceGenerators/SystemGenerator.SystemAPI.Query.dll" />
-    <Analyzer Include="/Users/tdu.yamazaki.lab/Breaking_blocks/Library/PackageCache/com.unity.entities@1eebe0437e56/Unity.Entities/SourceGenerators/SystemGenerator.Common.dll" />
-    <Analyzer Include="/Users/tdu.yamazaki.lab/Breaking_blocks/Library/PackageCache/com.unity.entities@1eebe0437e56/Unity.Entities/SourceGenerators/Common.dll" />
-    <Analyzer Include="/Users/tdu.yamazaki.lab/Breaking_blocks/Library/PackageCache/com.unity.entities@1eebe0437e56/Unity.Entities/SourceGenerators/SystemGenerator.EntityQueryBulkOperations.dll" />
-    <Analyzer Include="/Users/tdu.yamazaki.lab/Breaking_blocks/Library/PackageCache/com.unity.entities@1eebe0437e56/Unity.Entities/SourceGenerators/Unity.Entities.Analyzer.CodeFixes.dll" />
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets/Graffity.HandGesture/Samples/GestureSamples/Beam/Scripts/StateWindowView.cs" />
-    <Compile Include="Assets/TextMesh Pro/Examples &amp; Extras/Scripts/TMP_TextEventHandler.cs" />
-    <Compile Include="Assets/Graffity.HandGesture/Samples/GestureSamples/StaticGesture/Scripts/GesturesInfoView.cs" />
-    <Compile Include="Assets/@PaulosCreations/RunesAndPortals/Demo/RotatorTool.cs" />
-    <Compile Include="Assets/TextMesh Pro/Examples &amp; Extras/Scripts/EnvMapAnimator.cs" />
-    <Compile Include="Assets/GazeReticleController.cs" />
-    <Compile Include="Assets/TextMesh Pro/Examples &amp; Extras/Scripts/TMP_TextSelector_A.cs" />
-    <Compile Include="Assets/Graffity.HandGesture/Samples/GestureSamples/StaticGesture/Scripts/GesturesInfoViewModel.cs" />
-    <Compile Include="Assets/Bullet FX Pack Trail, Fire, Energy/Sources/Scripts/Bullet.cs" />
-    <Compile Include="Assets/Graffity.HandGesture/Samples/GestureSamples/Gun/Scripts/RemainingShotsViewModel.cs" />
-    <Compile Include="Assets/Bullet FX Pack Trail, Fire, Energy/Sources/Demo.cs" />
-    <Compile Include="Assets/Graffity.HandGesture/Samples/GestureSamples/StaticGesture/Scripts/GestureDoubleIconView.cs" />
-    <Compile Include="Assets/TextMesh Pro/Examples &amp; Extras/Scripts/Benchmark02.cs" />
-    <Compile Include="Assets/Graffity.HandGesture/Samples/GestureSamples/Gun/Scripts/StateWindowView.cs" />
-    <Compile Include="Assets/Graffity.HandGesture/Samples/GestureSamples/Gun/Scripts/TargetView.cs" />
-    <Compile Include="Assets/Graffity.HandGesture/Samples/GestureSamples/StaticGesture/Scripts/GestureSingleIconViewModel.cs" />
-    <Compile Include="Assets/@PaulosCreations/RunesAndPortals/Vortex/Scripts/Vortex_Controller.cs" />
-    <Compile Include="Assets/Graffity.HandGesture/Samples/GestureSamples/StaticGesture/Scripts/GestureModel.cs" />
-    <Compile Include="Assets/Graffity.HandGesture/Samples/GestureSamples/Gun/Scripts/TargetModel.cs" />
-    <Compile Include="Assets/Bullet FX Pack Trail, Fire, Energy/Sources/Scripts/Cylinder.cs" />
-    <Compile Include="Assets/Script/Bar.cs" />
-    <Compile Include="Assets/TextMesh Pro/Examples &amp; Extras/Scripts/TMP_ExampleScript_01.cs" />
-    <Compile Include="Assets/TextMesh Pro/Examples &amp; Extras/Scripts/TMPro_InstructionOverlay.cs" />
-    <Compile Include="Assets/TextMesh Pro/Examples &amp; Extras/Scripts/VertexShakeB.cs" />
-    <Compile Include="Assets/@PaulosCreations/RunesAndPortals/Demo/Demo_Controller.cs" />
-    <Compile Include="Assets/Script/DecalDestructor.cs" />
-    <Compile Include="Assets/ReticleScaler.cs" />
-    <Compile Include="Assets/Graffity.HandGesture/Samples/GestureSamples/Gun/Scripts/SampleFingerGunModel.cs" />
-    <Compile Include="Assets/Graffity.HandGesture/Samples/GestureSamples/StaticGesture/Scripts/IGestureIconViewModel.cs" />
-    <Compile Include="Assets/Graffity.HandGesture/Samples/GestureSamples/Gun/Scripts/BulletModel.cs" />
-    <Compile Include="Assets/TextMesh Pro/Examples &amp; Extras/Scripts/VertexJitter.cs" />
-    <Compile Include="Assets/Graffity.HandGesture/Samples/GestureSamples/Beam/Scripts/SampleBeamFlow.cs" />
-    <Compile Include="Assets/Script/Ball.cs" />
-    <Compile Include="Assets/TextMesh Pro/Examples &amp; Extras/Scripts/TMP_UiFrameRateCounter.cs" />
-    <Compile Include="Assets/TextMesh Pro/Examples &amp; Extras/Scripts/VertexZoom.cs" />
-    <Compile Include="Assets/Script/BallView.cs" />
-    <Compile Include="Assets/TargetBehavior.cs" />
-    <Compile Include="Assets/TextMesh Pro/Examples &amp; Extras/Scripts/TMP_TextSelector_B.cs" />
-    <Compile Include="Assets/Script/Rotate.cs" />
-    <Compile Include="Assets/TextMesh Pro/Examples &amp; Extras/Scripts/SkewTextExample.cs" />
-    <Compile Include="Assets/TextMesh Pro/Examples &amp; Extras/Scripts/WarpTextExample.cs" />
-    <Compile Include="Assets/@PaulosCreations/RunesAndPortals/PortalGate_Simple/Script/Portal_Controller.cs" />
-    <Compile Include="Assets/TextMesh Pro/Examples &amp; Extras/Scripts/ShaderPropAnimator.cs" />
-    <Compile Include="Assets/Graffity.HandGesture/Samples/GestureSamples/Beam/Scripts/SampleBeamModel.cs" />
-    <Compile Include="Assets/Graffity.HandGesture/Samples/GestureSamples/StaticGesture/Scripts/StaticGestureFlow.cs" />
-    <Compile Include="Assets/Script/Block.cs" />
-    <Compile Include="Assets/FingerRayController.cs" />
-    <Compile Include="Assets/@PaulosCreations/RunesAndPortals/RuneStone/Script/Runestone_Controller.cs" />
-    <Compile Include="Assets/TextMesh Pro/Examples &amp; Extras/Scripts/TMP_TextInfoDebugTool.cs" />
     <Compile Include="Assets/Graffity.HandGesture/Samples/GestureSamples/Shuriken/Scripts/SampleShurikenModel.cs" />
     <Compile Include="Assets/Graffity.HandGesture/Samples/GestureSamples/Shuriken/Scripts/SampleShurikenFlow.cs" />
-    <Compile Include="Assets/TextMesh Pro/Examples &amp; Extras/Scripts/VertexShakeA.cs" />
-    <Compile Include="Assets/@PaulosCreations/RunesAndPortals/Rift/Scripts/Rift_Controller.cs" />
-    <Compile Include="Assets/TextMesh Pro/Examples &amp; Extras/Scripts/Benchmark01_UGUI.cs" />
-    <Compile Include="Assets/Script/BarView.cs" />
-    <Compile Include="Assets/TextMesh Pro/Examples &amp; Extras/Scripts/SimpleScript.cs" />
+    <Compile Include="Assets/Graffity.HandGesture/Samples/GestureSamples/StaticGesture/Scripts/GesturesInfoView.cs" />
     <Compile Include="Assets/Graffity.HandGesture/Samples/GestureSamples/Beam/Scripts/TargetView.cs" />
-    <Compile Include="Assets/TextMesh Pro/Examples &amp; Extras/Scripts/Benchmark04.cs" />
+    <Compile Include="Assets/Graffity.HandGesture/Samples/GestureSamples/StaticGesture/Scripts/GesturesInfoViewModel.cs" />
     <Compile Include="Assets/Graffity.HandGesture/Samples/GestureSamples/Gun/Scripts/BulletView.cs" />
-    <Compile Include="Assets/TextMesh Pro/Examples &amp; Extras/Scripts/ChatController.cs" />
     <Compile Include="Assets/Graffity.HandGesture/Samples/GestureSamples/StaticGesture/Scripts/GestureSingleIconView.cs" />
-    <Compile Include="Assets/TextMesh Pro/Examples &amp; Extras/Scripts/TMP_DigitValidator.cs" />
-    <Compile Include="Assets/TextMesh Pro/Examples &amp; Extras/Scripts/TMP_FrameRateCounter.cs" />
-    <Compile Include="Assets/TutorialInfo/Scripts/Readme.cs" />
     <Compile Include="Assets/Graffity.HandGesture/Samples/GestureSamples/Gun/Scripts/StateWindowViewModel.cs" />
-    <Compile Include="Assets/Script/GameManager.cs" />
-    <Compile Include="Assets/Graffity.HandGesture/Samples/GestureSamples/Beam/Scripts/TargetViewModel.cs" />
-    <Compile Include="Assets/TextMesh Pro/Examples &amp; Extras/Scripts/Benchmark01.cs" />
-    <Compile Include="Assets/TextMesh Pro/Examples &amp; Extras/Scripts/TextMeshSpawner.cs" />
     <Compile Include="Assets/Graffity.HandGesture/Samples/GestureSamples/Beam/Scripts/BeamView.cs" />
+    <Compile Include="Assets/Graffity.HandGesture/Samples/GestureSamples/Beam/Scripts/TargetViewModel.cs" />
+    <Compile Include="Assets/Graffity.HandGesture/Samples/GestureSamples/StaticGesture/Scripts/GestureDoubleIconView.cs" />
+    <Compile Include="Assets/Graffity.HandGesture/Samples/GestureSamples/Gun/Scripts/StateWindowView.cs" />
     <Compile Include="Assets/Graffity.HandGesture/Samples/GestureSamples/Beam/Scripts/BeamViewModel.cs" />
-    <Compile Include="Assets/TextMesh Pro/Examples &amp; Extras/Scripts/CameraController.cs" />
-    <Compile Include="Assets/Graffity.HandGesture/Samples/GestureSamples/Gun/Scripts/RemainingShotsView.cs" />
-    <Compile Include="Assets/@PaulosCreations/RunesAndPortals/PortalGate/Scripts/PortalGate_Controller.cs" />
-    <Compile Include="Assets/TextMesh Pro/Examples &amp; Extras/Scripts/Benchmark03.cs" />
+    <Compile Include="Assets/Graffity.HandGesture/Samples/GestureSamples/Gun/Scripts/TargetView.cs" />
+    <Compile Include="Assets/Graffity.HandGesture/Samples/GestureSamples/StaticGesture/Scripts/GestureSingleIconViewModel.cs" />
+    <Compile Include="Assets/Graffity.HandGesture/Samples/GestureSamples/StaticGesture/Scripts/GestureModel.cs" />
+    <Compile Include="Assets/Graffity.HandGesture/Samples/GestureSamples/Gun/Scripts/TargetModel.cs" />
     <Compile Include="Assets/Graffity.HandGesture/Samples/GestureSamples/Beam/Scripts/StateWindowViewModel.cs" />
-    <Compile Include="Assets/Bullet FX Pack Trail, Fire, Energy/Sources/Scripts/Gun.cs" />
-    <Compile Include="Assets/TextMesh Pro/Examples &amp; Extras/Scripts/DropdownSample.cs" />
-    <Compile Include="Assets/TextMesh Pro/Examples &amp; Extras/Scripts/VertexColorCycler.cs" />
+    <Compile Include="Assets/Graffity.HandGesture/Samples/GestureSamples/Gun/Scripts/SampleFingerGunFlow.cs" />
     <Compile Include="Assets/Graffity.HandGesture/Samples/GestureSamples/Gun/Scripts/CollisionEvent.cs" />
     <Compile Include="Assets/Graffity.HandGesture/Samples/GestureSamples/StaticGesture/Scripts/GestureDoubleIconViewModel.cs" />
-    <Compile Include="Assets/@PaulosCreations/RunesAndPortals/PortalRound/Script/PortalRound_Controller.cs" />
     <Compile Include="Assets/Graffity.HandGesture/Samples/GestureSamples/Shuriken/Scripts/CollisionEvent.cs" />
-    <Compile Include="Assets/Script/ShereShooter.cs" />
+    <Compile Include="Assets/Graffity.HandGesture/Samples/GestureSamples/Gun/Scripts/SampleFingerGunModel.cs" />
+    <Compile Include="Assets/Graffity.HandGesture/Samples/GestureSamples/StaticGesture/Scripts/IGestureIconViewModel.cs" />
     <Compile Include="Assets/Graffity.HandGesture/Samples/GestureSamples/Shuriken/Scripts/ShurikenView.cs" />
-    <Compile Include="Assets/Script/MeshTrail.cs" />
-    <Compile Include="Assets/TextMesh Pro/Examples &amp; Extras/Scripts/ObjectSpin.cs" />
-    <Compile Include="Assets/TextMesh Pro/Examples &amp; Extras/Scripts/TMP_PhoneNumberValidator.cs" />
     <Compile Include="Assets/Graffity.HandGesture/Samples/GestureSamples/Gun/Scripts/TargetViewModel.cs" />
+    <Compile Include="Assets/Graffity.HandGesture/Samples/GestureSamples/Gun/Scripts/BulletModel.cs" />
     <Compile Include="Assets/Graffity.HandGesture/Samples/GestureSamples/Shuriken/Scripts/StateWindowViewModel.cs" />
-    <Compile Include="Assets/TextMesh Pro/Examples &amp; Extras/Scripts/TextConsoleSimulator.cs" />
-    <Compile Include="Assets/TextMesh Pro/Examples &amp; Extras/Scripts/TeleType.cs" />
-    <Compile Include="Assets/TextMesh Pro/Examples &amp; Extras/Scripts/TMP_TextEventCheck.cs" />
+    <Compile Include="Assets/Graffity.HandGesture/Samples/GestureSamples/Beam/Scripts/SampleBeamFlow.cs" />
     <Compile Include="Assets/Graffity.HandGesture/Samples/GestureSamples/Shuriken/Scripts/TargetViewModel.cs" />
-    <Compile Include="Assets/Script/BarViewModel.cs" />
-    <Compile Include="Assets/Script/BarModel.cs" />
     <Compile Include="Assets/Graffity.HandGesture/Samples/GestureSamples/Beam/Scripts/TriggerEvent.cs" />
     <Compile Include="Assets/Graffity.HandGesture/Samples/GestureSamples/Shuriken/Scripts/StateWindowView.cs" />
-    <Compile Include="Assets/TextMesh Pro/Examples &amp; Extras/Scripts/TextMeshProFloatingText.cs" />
     <Compile Include="Assets/Graffity.HandGesture/Samples/GestureSamples/Shuriken/Scripts/TargetView.cs" />
+    <Compile Include="Assets/Graffity.HandGesture/Samples/GestureSamples/Beam/Scripts/SampleBeamModel.cs" />
+    <Compile Include="Assets/Graffity.HandGesture/Samples/GestureSamples/StaticGesture/Scripts/StaticGestureFlow.cs" />
     <Compile Include="Assets/Graffity.HandGesture/Samples/GestureSamples/Gun/Scripts/BulletViewModel.cs" />
     <Compile Include="Assets/Graffity.HandGesture/Samples/GestureSamples/Shuriken/Scripts/ShurikenViewModel.cs" />
     <Compile Include="Assets/Graffity.HandGesture/Samples/GestureSamples/StaticGesture/Scripts/GesturesInfoModel.cs" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Assets/TextMesh Pro/Shaders/TMPro.cginc" />
-    <None Include="Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile Overlay.shader" />
-    <None Include="Assets/Packages/Microsoft.Bcl.AsyncInterfaces.6.0.0/lib/netstandard2.1/Microsoft.Bcl.AsyncInterfaces.xml" />
-    <None Include="Assets/TextMesh Pro/Examples &amp; Extras/Fonts/Roboto-Bold - License.txt" />
-    <None Include="Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile-2-Pass.shader" />
-    <None Include="Assets/TextMesh Pro/Examples &amp; Extras/Fonts/Unity - OFL.txt" />
-    <None Include="Assets/Bullet FX Pack Trail, Fire, Energy/readme.txt" />
-    <None Include="Assets/TextMesh Pro/Shaders/TMP_Bitmap.shader" />
-    <None Include="Assets/Packages/System.Threading.Channels.8.0.0/LICENSE.TXT" />
-    <None Include="Assets/TextMesh Pro/Examples &amp; Extras/Fonts/Oswald-Bold - OFL.txt" />
-    <None Include="Assets/TextMesh Pro/Examples &amp; Extras/Fonts/Roboto-Bold - AFL.txt" />
-    <None Include="Assets/Packages/R3.1.3.0/lib/netstandard2.1/R3.xml" />
-    <None Include="Assets/TextMesh Pro/Examples &amp; Extras/Fonts/Anton OFL.txt" />
-    <None Include="Assets/Bullet FX Pack Trail, Fire, Energy/Sources/Shaders/BulletTrail.shader" />
-    <None Include="Assets/TextMesh Pro/Shaders/TMPro_Mobile.cginc" />
-    <None Include="Assets/TextMesh Pro/Shaders/TMP_SDF SSD.shader" />
-    <None Include="Assets/Packages/R3.1.3.0/lib/netstandard2.1/R3.dll" />
-    <None Include="Assets/Packages/System.ComponentModel.Annotations.5.0.0/useSharedDesignerContext.txt" />
-    <None Include="Assets/Packages/System.Threading.Channels.8.0.0/THIRD-PARTY-NOTICES.TXT" />
-    <None Include="Assets/Packages/Microsoft.Bcl.TimeProvider.8.0.0/useSharedDesignerContext.txt" />
-    <None Include="Assets/Packages/Microsoft.Bcl.AsyncInterfaces.6.0.0/LICENSE.TXT" />
-    <None Include="Assets/TextMesh Pro/Shaders/TMP_SDF-Surface-Mobile.shader" />
-    <None Include="Assets/Packages/System.Threading.Channels.8.0.0/lib/netstandard2.1/System.Threading.Channels.xml" />
-    <None Include="Assets/Packages/Microsoft.Bcl.TimeProvider.8.0.0/THIRD-PARTY-NOTICES.TXT" />
-    <None Include="Assets/Packages/System.ComponentModel.Annotations.5.0.0/THIRD-PARTY-NOTICES.TXT" />
-    <None Include="Assets/Packages/Microsoft.Bcl.AsyncInterfaces.6.0.0/THIRD-PARTY-NOTICES.TXT" />
-    <None Include="Assets/Packages/Microsoft.Bcl.TimeProvider.8.0.0/lib/netstandard2.0/Microsoft.Bcl.TimeProvider.dll" />
-    <None Include="Assets/Packages/Microsoft.Bcl.AsyncInterfaces.6.0.0/lib/netstandard2.1/Microsoft.Bcl.AsyncInterfaces.dll" />
-    <None Include="Assets/TextMesh Pro/Shaders/SDFFunctions.hlsl" />
-    <None Include="Assets/@PaulosCreations/RunesAndPortals/ReadMe.txt" />
-    <None Include="Assets/Bullet FX Pack Trail, Fire, Energy/Sources/Shaders/BulletShader.shader" />
-    <None Include="Assets/TextMesh Pro/Shaders/TMP_SDF-Surface.shader" />
-    <None Include="Assets/Packages/Microsoft.Bcl.TimeProvider.8.0.0/lib/netstandard2.0/Microsoft.Bcl.TimeProvider.xml" />
-    <None Include="Assets/TextMesh Pro/Sprites/EmojiOne Attribution.txt" />
-    <None Include="Assets/TextMesh Pro/Shaders/TMP_Bitmap-Custom-Atlas.shader" />
-    <None Include="Assets/TextMesh Pro/Shaders/TMP_SDF.shader" />
-    <None Include="Assets/Packages/Microsoft.Bcl.AsyncInterfaces.6.0.0/useSharedDesignerContext.txt" />
-    <None Include="Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile SSD.shader" />
-    <None Include="Assets/TextMesh Pro/Resources/LineBreaking Leading Characters.txt" />
-    <None Include="Assets/TextMesh Pro/Shaders/TMPro_Properties.cginc" />
-    <None Include="Assets/Bullet FX Pack Trail, Fire, Energy/Sources/Shaders/FireSurface.shader" />
-    <None Include="Assets/TextMesh Pro/Shaders/TMPro_Surface.cginc" />
-    <None Include="Assets/Packages/System.ComponentModel.Annotations.5.0.0/version.txt" />
-    <None Include="Assets/Packages/Microsoft.Bcl.TimeProvider.8.0.0/LICENSE.TXT" />
-    <None Include="Assets/Packages/System.Threading.Channels.8.0.0/useSharedDesignerContext.txt" />
-    <None Include="Assets/TextMesh Pro/Resources/LineBreaking Following Characters.txt" />
-    <None Include="Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile Masking.shader" />
-    <None Include="Assets/Packages/System.ComponentModel.Annotations.5.0.0/lib/netstandard2.1/System.ComponentModel.Annotations.xml" />
-    <None Include="Assets/TextMesh Pro/Shaders/TMP_SDF Overlay.shader" />
-    <None Include="Assets/Packages/System.Threading.Channels.8.0.0/lib/netstandard2.1/System.Threading.Channels.dll" />
-    <None Include="Assets/TextMesh Pro/Shaders/TMP_Bitmap-Mobile.shader" />
-    <None Include="Assets/Packages/System.ComponentModel.Annotations.5.0.0/lib/netstandard2.1/System.ComponentModel.Annotations.dll" />
-    <None Include="Assets/TextMesh Pro/Fonts/LiberationSans - OFL.txt" />
-    <None Include="Assets/Packages/System.ComponentModel.Annotations.5.0.0/LICENSE.TXT" />
-    <None Include="Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile.shader" />
-    <None Include="Assets/TextMesh Pro/Shaders/TMP_Sprite.shader" />
-    <None Include="Assets/TextMesh Pro/Examples &amp; Extras/Fonts/Bangers - OFL.txt" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
@@ -676,56 +541,24 @@
       <HintPath>/Applications/Unity/Hub/Editor/6000.0.49f1/Unity.app/Contents/Managed/UnityEngine/UnityEditor.XRModule.dll</HintPath>
       <Private>False</Private>
     </Reference>
-    <Reference Include="Unity.PolySpatial.Core">
-      <HintPath>Library/PackageCache/com.unity.polyspatial@d223e8e81ba4/Runtime/EditorAssembly/Unity.PolySpatial.Core.dll</HintPath>
-      <Private>False</Private>
-    </Reference>
-    <Reference Include="Unity.Collections.LowLevel.ILSupport">
-      <HintPath>Library/PackageCache/com.unity.collections@56bff8827a7e/Unity.Collections.LowLevel.ILSupport/Unity.Collections.LowLevel.ILSupport.dll</HintPath>
-      <Private>False</Private>
-    </Reference>
     <Reference Include="nunit.framework">
       <HintPath>Library/PackageCache/com.unity.ext.nunit@031a54704bff/net40/unity-custom/nunit.framework.dll</HintPath>
       <Private>False</Private>
     </Reference>
-    <Reference Include="R3">
-      <HintPath>Assets/Packages/R3.1.3.0/lib/netstandard2.1/R3.dll</HintPath>
+    <Reference Include="Unity.Analytics.Tracker">
+      <HintPath>Library/PackageCache/com.unity.analytics@6cc66d58ac08/Unity.Analytics.Tracker.dll</HintPath>
       <Private>False</Private>
     </Reference>
-    <Reference Include="FlatSharp.Runtime">
-      <HintPath>Library/PackageCache/com.unity.ext.flatsharp@6271538e96e4/Runtime/FlatSharp.Runtime.dll</HintPath>
-      <Private>False</Private>
-    </Reference>
-    <Reference Include="Microsoft.Bcl.TimeProvider">
-      <HintPath>Assets/Packages/Microsoft.Bcl.TimeProvider.8.0.0/lib/netstandard2.0/Microsoft.Bcl.TimeProvider.dll</HintPath>
-      <Private>False</Private>
-    </Reference>
-    <Reference Include="Microsoft.Bcl.AsyncInterfaces">
-      <HintPath>Assets/Packages/Microsoft.Bcl.AsyncInterfaces.6.0.0/lib/netstandard2.1/Microsoft.Bcl.AsyncInterfaces.dll</HintPath>
-      <Private>False</Private>
-    </Reference>
-    <Reference Include="Unity.VisualScripting.Antlr3.Runtime">
-      <HintPath>Library/PackageCache/com.unity.visualscripting@7dcdc439b230/Runtime/VisualScripting.Flow/Dependencies/NCalc/Unity.VisualScripting.Antlr3.Runtime.dll</HintPath>
-      <Private>False</Private>
-    </Reference>
-    <Reference Include="System.Runtime.CompilerServices.Unsafe">
-      <HintPath>Library/PackageCache/com.unity.ext.flatsharp@6271538e96e4/Runtime/System.Runtime.CompilerServices.Unsafe.dll</HintPath>
+    <Reference Include="Unity.Analytics.Editor">
+      <HintPath>Library/PackageCache/com.unity.analytics@6cc66d58ac08/Unity.Analytics.Editor.dll</HintPath>
       <Private>False</Private>
     </Reference>
     <Reference Include="Newtonsoft.Json">
       <HintPath>Library/PackageCache/com.unity.nuget.newtonsoft-json@74deb55db2a0/Runtime/Newtonsoft.Json.dll</HintPath>
       <Private>False</Private>
     </Reference>
-    <Reference Include="Mono.Cecil">
-      <HintPath>Library/PackageCache/com.unity.nuget.mono-cecil@d6f9955a5d5f/Mono.Cecil.dll</HintPath>
-      <Private>False</Private>
-    </Reference>
-    <Reference Include="System.Threading.Channels">
-      <HintPath>Assets/Packages/System.Threading.Channels.8.0.0/lib/netstandard2.1/System.Threading.Channels.dll</HintPath>
-      <Private>False</Private>
-    </Reference>
-    <Reference Include="System.ComponentModel.Annotations">
-      <HintPath>Assets/Packages/System.ComponentModel.Annotations.5.0.0/lib/netstandard2.1/System.ComponentModel.Annotations.dll</HintPath>
+    <Reference Include="Unity.Analytics.StandardEvents">
+      <HintPath>Library/PackageCache/com.unity.analytics@6cc66d58ac08/AnalyticsStandardEvents/Unity.Analytics.StandardEvents.dll</HintPath>
       <Private>False</Private>
     </Reference>
     <Reference Include="UnityEditor.iOS.Extensions.Xcode">
@@ -1252,6 +1085,26 @@
       <HintPath>Library/ScriptAssemblies/Unity.XR.Interaction.Toolkit.Editor.dll</HintPath>
       <Private>False</Private>
     </Reference>
+    <Reference Include="UnityEngine.Advertisements.Editor">
+      <HintPath>Library/ScriptAssemblies/UnityEngine.Advertisements.Editor.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Unity.InputSystem.ForUI">
+      <HintPath>Library/ScriptAssemblies/Unity.InputSystem.ForUI.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="UnityEditor.UI">
+      <HintPath>Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Unity.Rider.Editor">
+      <HintPath>Library/ScriptAssemblies/Unity.Rider.Editor.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="UnityEngine.Purchasing.Codeless">
+      <HintPath>Library/ScriptAssemblies/UnityEngine.Purchasing.Codeless.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
     <Reference Include="Unity.AI.Navigation">
       <HintPath>Library/ScriptAssemblies/Unity.AI.Navigation.dll</HintPath>
       <Private>False</Private>
@@ -1260,156 +1113,168 @@
       <HintPath>Library/ScriptAssemblies/Unity.XR.CoreUtils.dll</HintPath>
       <Private>False</Private>
     </Reference>
-    <Reference Include="Unity.Networking.Editor">
-      <HintPath>Library/ScriptAssemblies/Unity.Networking.Editor.dll</HintPath>
-      <Private>False</Private>
-    </Reference>
     <Reference Include="Unity.XR.ARFoundation.VisualScripting.Editor">
       <HintPath>Library/ScriptAssemblies/Unity.XR.ARFoundation.VisualScripting.Editor.dll</HintPath>
       <Private>False</Private>
     </Reference>
-    <Reference Include="Unity.PolySpatial">
-      <HintPath>Library/ScriptAssemblies/Unity.PolySpatial.dll</HintPath>
+    <Reference Include="UnityEngine.Purchasing">
+      <HintPath>Library/ScriptAssemblies/UnityEngine.Purchasing.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Unity.XR.ARFoundation.InternalUtils.Editor">
+      <HintPath>Library/ScriptAssemblies/Unity.XR.ARFoundation.InternalUtils.Editor.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Unity.Services.Analytics">
+      <HintPath>Library/ScriptAssemblies/Unity.Services.Analytics.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Unity.Analytics.DataPrivacy">
+      <HintPath>Library/ScriptAssemblies/Unity.Analytics.DataPrivacy.dll</HintPath>
       <Private>False</Private>
     </Reference>
     <Reference Include="Unity.XR.Simulation.Editor">
       <HintPath>Library/ScriptAssemblies/Unity.XR.Simulation.Editor.dll</HintPath>
       <Private>False</Private>
     </Reference>
-    <Reference Include="Unity.ShaderGraph.Editor">
-      <HintPath>Library/ScriptAssemblies/Unity.ShaderGraph.Editor.dll</HintPath>
+    <Reference Include="Unity.Timeline.Editor">
+      <HintPath>Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Purchasing.Common">
+      <HintPath>Library/ScriptAssemblies/Purchasing.Common.dll</HintPath>
       <Private>False</Private>
     </Reference>
     <Reference Include="Unity.Timeline">
       <HintPath>Library/ScriptAssemblies/Unity.Timeline.dll</HintPath>
       <Private>False</Private>
     </Reference>
-    <Reference Include="Unity.RenderPipelines.Core.ShaderLibrary">
-      <HintPath>Library/ScriptAssemblies/Unity.RenderPipelines.Core.ShaderLibrary.dll</HintPath>
+    <Reference Include="UnityEngine.UI">
+      <HintPath>Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="UnityEngine.Advertisements">
+      <HintPath>Library/ScriptAssemblies/UnityEngine.Advertisements.dll</HintPath>
       <Private>False</Private>
     </Reference>
     <Reference Include="Unity.PlasticSCM.Editor">
       <HintPath>Library/ScriptAssemblies/Unity.PlasticSCM.Editor.dll</HintPath>
       <Private>False</Private>
     </Reference>
+    <Reference Include="UnityEditor.Purchasing">
+      <HintPath>Library/ScriptAssemblies/UnityEditor.Purchasing.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
     <Reference Include="Unity.Multiplayer.Center.Editor">
       <HintPath>Library/ScriptAssemblies/Unity.Multiplayer.Center.Editor.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Unity.Services.Core.Components">
+      <HintPath>Library/ScriptAssemblies/Unity.Services.Core.Components.dll</HintPath>
       <Private>False</Private>
     </Reference>
     <Reference Include="Unity.XR.VisionOS.Analytics.Editor">
       <HintPath>Library/ScriptAssemblies/Unity.XR.VisionOS.Analytics.Editor.dll</HintPath>
       <Private>False</Private>
     </Reference>
+    <Reference Include="Unity.Mathematics.Editor">
+      <HintPath>Library/ScriptAssemblies/Unity.Mathematics.Editor.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
     <Reference Include="Unity.XR.Interaction.Toolkit.Analytics.Hooks.Editor">
       <HintPath>Library/ScriptAssemblies/Unity.XR.Interaction.Toolkit.Analytics.Hooks.Editor.dll</HintPath>
       <Private>False</Private>
     </Reference>
-    <Reference Include="Unity.RenderPipelines.GPUDriven.Runtime">
-      <HintPath>Library/ScriptAssemblies/Unity.RenderPipelines.GPUDriven.Runtime.dll</HintPath>
+    <Reference Include="Unity.XR.ARFoundation">
+      <HintPath>Library/ScriptAssemblies/Unity.XR.ARFoundation.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="UnityEditor.XR.LegacyInputHelpers">
+      <HintPath>Library/ScriptAssemblies/UnityEditor.XR.LegacyInputHelpers.dll</HintPath>
       <Private>False</Private>
     </Reference>
     <Reference Include="Unity.XR.ARFoundation.InternalUtils">
       <HintPath>Library/ScriptAssemblies/Unity.XR.ARFoundation.InternalUtils.dll</HintPath>
       <Private>False</Private>
     </Reference>
-    <Reference Include="Unity.XR.OpenXR.Features.OculusQuestSupport.Editor">
-      <HintPath>Library/ScriptAssemblies/Unity.XR.OpenXR.Features.OculusQuestSupport.Editor.dll</HintPath>
+    <Reference Include="Unity.XR.Hands.Analytics.Hooks.Editor">
+      <HintPath>Library/ScriptAssemblies/Unity.XR.Hands.Analytics.Hooks.Editor.dll</HintPath>
       <Private>False</Private>
     </Reference>
-    <Reference Include="PPv2URPConverters">
-      <HintPath>Library/ScriptAssemblies/PPv2URPConverters.dll</HintPath>
+    <Reference Include="Unity.XR.ARSubsystems">
+      <HintPath>Library/ScriptAssemblies/Unity.XR.ARSubsystems.dll</HintPath>
       <Private>False</Private>
     </Reference>
-    <Reference Include="Unity.Serialization">
-      <HintPath>Library/ScriptAssemblies/Unity.Serialization.dll</HintPath>
+    <Reference Include="Unity.XR.ARCore.Editor">
+      <HintPath>Library/ScriptAssemblies/Unity.XR.ARCore.Editor.dll</HintPath>
       <Private>False</Private>
     </Reference>
-    <Reference Include="Unity.VisualScripting.Core">
-      <HintPath>Library/ScriptAssemblies/Unity.VisualScripting.Core.dll</HintPath>
+    <Reference Include="Unity.XR.ARKit.Editor">
+      <HintPath>Library/ScriptAssemblies/Unity.XR.ARKit.Editor.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Unity.XR.Management.Editor">
+      <HintPath>Library/ScriptAssemblies/Unity.XR.Management.Editor.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Unity.XR.ARFoundation.VisualScripting">
+      <HintPath>Library/ScriptAssemblies/Unity.XR.ARFoundation.VisualScripting.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="UnityEngine.XR.LegacyInputHelpers">
+      <HintPath>Library/ScriptAssemblies/UnityEngine.XR.LegacyInputHelpers.dll</HintPath>
       <Private>False</Private>
     </Reference>
     <Reference Include="Unity.XR.Hands.Editor">
       <HintPath>Library/ScriptAssemblies/Unity.XR.Hands.Editor.dll</HintPath>
       <Private>False</Private>
     </Reference>
-    <Reference Include="Unity.RenderPipelines.Universal.Config.Runtime">
-      <HintPath>Library/ScriptAssemblies/Unity.RenderPipelines.Universal.Config.Runtime.dll</HintPath>
+    <Reference Include="Unity.2D.Tilemap.Editor">
+      <HintPath>Library/ScriptAssemblies/Unity.2D.Tilemap.Editor.dll</HintPath>
       <Private>False</Private>
     </Reference>
-    <Reference Include="Unity.RenderPipelines.Universal.Editor">
-      <HintPath>Library/ScriptAssemblies/Unity.RenderPipelines.Universal.Editor.dll</HintPath>
-      <Private>False</Private>
-    </Reference>
-    <Reference Include="Unity.Serialization.Editor">
-      <HintPath>Library/ScriptAssemblies/Unity.Serialization.Editor.dll</HintPath>
+    <Reference Include="UnityEngine.Purchasing.SecurityStub">
+      <HintPath>Library/ScriptAssemblies/UnityEngine.Purchasing.SecurityStub.dll</HintPath>
       <Private>False</Private>
     </Reference>
     <Reference Include="Unity.XR.Hands.Analytics.Editor">
       <HintPath>Library/ScriptAssemblies/Unity.XR.Hands.Analytics.Editor.dll</HintPath>
       <Private>False</Private>
     </Reference>
-    <Reference Include="Unity.Collections.Editor">
-      <HintPath>Library/ScriptAssemblies/Unity.Collections.Editor.dll</HintPath>
-      <Private>False</Private>
-    </Reference>
-    <Reference Include="Unity.Profiling.Core">
-      <HintPath>Library/ScriptAssemblies/Unity.Profiling.Core.dll</HintPath>
-      <Private>False</Private>
-    </Reference>
-    <Reference Include="Unity.RenderPipelines.ShaderGraph.ShaderGraphLibrary">
-      <HintPath>Library/ScriptAssemblies/Unity.RenderPipelines.ShaderGraph.ShaderGraphLibrary.dll</HintPath>
-      <Private>False</Private>
-    </Reference>
-    <Reference Include="Unity.VisualScripting.Shared.Editor">
-      <HintPath>Library/ScriptAssemblies/Unity.VisualScripting.Shared.Editor.dll</HintPath>
-      <Private>False</Private>
-    </Reference>
-    <Reference Include="Unity.VisualScripting.Core.Editor">
-      <HintPath>Library/ScriptAssemblies/Unity.VisualScripting.Core.Editor.dll</HintPath>
+    <Reference Include="Unity.XR.ARKit.FaceTracking">
+      <HintPath>Library/ScriptAssemblies/Unity.XR.ARKit.FaceTracking.dll</HintPath>
       <Private>False</Private>
     </Reference>
     <Reference Include="UnityEngine.SpatialTracking">
       <HintPath>Library/ScriptAssemblies/UnityEngine.SpatialTracking.dll</HintPath>
       <Private>False</Private>
     </Reference>
+    <Reference Include="Unity.Multiplayer.Center.Common">
+      <HintPath>Library/ScriptAssemblies/Unity.Multiplayer.Center.Common.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
     <Reference Include="Unity.AI.Navigation.Updater">
       <HintPath>Library/ScriptAssemblies/Unity.AI.Navigation.Updater.dll</HintPath>
-      <Private>False</Private>
-    </Reference>
-    <Reference Include="Unity.Mathematics.Extensions">
-      <HintPath>Library/ScriptAssemblies/Unity.Mathematics.Extensions.dll</HintPath>
-      <Private>False</Private>
-    </Reference>
-    <Reference Include="Unity.Entities.Graphics.Editor">
-      <HintPath>Library/ScriptAssemblies/Unity.Entities.Graphics.Editor.dll</HintPath>
       <Private>False</Private>
     </Reference>
     <Reference Include="Unity.XR.Hands">
       <HintPath>Library/ScriptAssemblies/Unity.XR.Hands.dll</HintPath>
       <Private>False</Private>
     </Reference>
-    <Reference Include="Unity.Entities.Build">
-      <HintPath>Library/ScriptAssemblies/Unity.Entities.Build.dll</HintPath>
+    <Reference Include="Unity.XR.ARKit">
+      <HintPath>Library/ScriptAssemblies/Unity.XR.ARKit.dll</HintPath>
       <Private>False</Private>
     </Reference>
-    <Reference Include="Unity.XR.VisionOS.Editor">
-      <HintPath>Library/ScriptAssemblies/Unity.XR.VisionOS.Editor.dll</HintPath>
-      <Private>False</Private>
-    </Reference>
-    <Reference Include="Unity.PolySpatial.XR">
-      <HintPath>Library/ScriptAssemblies/Unity.PolySpatial.XR.dll</HintPath>
-      <Private>False</Private>
-    </Reference>
-    <Reference Include="Unity.PolySpatial.XR.Validation.Editor">
-      <HintPath>Library/ScriptAssemblies/Unity.PolySpatial.XR.Validation.Editor.dll</HintPath>
-      <Private>False</Private>
-    </Reference>
-    <Reference Include="Unity.Postprocessing.Editor">
-      <HintPath>Library/ScriptAssemblies/Unity.Postprocessing.Editor.dll</HintPath>
+    <Reference Include="UnityEngine.Purchasing.SecurityCore">
+      <HintPath>Library/ScriptAssemblies/UnityEngine.Purchasing.SecurityCore.dll</HintPath>
       <Private>False</Private>
     </Reference>
     <Reference Include="Unity.XR.VisionOS">
       <HintPath>Library/ScriptAssemblies/Unity.XR.VisionOS.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Unity.XR.VisionOS.Editor">
+      <HintPath>Library/ScriptAssemblies/Unity.XR.VisionOS.Editor.dll</HintPath>
       <Private>False</Private>
     </Reference>
     <Reference Include="Unity.XR.Management">
@@ -1424,284 +1289,12 @@
       <HintPath>Library/ScriptAssemblies/Unity.XR.ARSubsystems.Editor.dll</HintPath>
       <Private>False</Private>
     </Reference>
-    <Reference Include="R3.Unity.TextMeshPro">
-      <HintPath>Library/ScriptAssemblies/R3.Unity.TextMeshPro.dll</HintPath>
-      <Private>False</Private>
-    </Reference>
-    <Reference Include="FlatSharp.Editor">
-      <HintPath>Library/ScriptAssemblies/FlatSharp.Editor.dll</HintPath>
-      <Private>False</Private>
-    </Reference>
-    <Reference Include="Unity.VisualScripting.SettingsProvider.Editor">
-      <HintPath>Library/ScriptAssemblies/Unity.VisualScripting.SettingsProvider.Editor.dll</HintPath>
-      <Private>False</Private>
-    </Reference>
-    <Reference Include="Unity.XR.OpenXR.Editor">
-      <HintPath>Library/ScriptAssemblies/Unity.XR.OpenXR.Editor.dll</HintPath>
-      <Private>False</Private>
-    </Reference>
-    <Reference Include="Unity.Deformations">
-      <HintPath>Library/ScriptAssemblies/Unity.Deformations.dll</HintPath>
-      <Private>False</Private>
-    </Reference>
-    <Reference Include="Unity.RenderPipelines.Universal.Runtime">
-      <HintPath>Library/ScriptAssemblies/Unity.RenderPipelines.Universal.Runtime.dll</HintPath>
-      <Private>False</Private>
-    </Reference>
-    <Reference Include="Unity.VisualScripting.State">
-      <HintPath>Library/ScriptAssemblies/Unity.VisualScripting.State.dll</HintPath>
-      <Private>False</Private>
-    </Reference>
-    <Reference Include="Unity.AI.Navigation.Editor.ConversionSystem">
-      <HintPath>Library/ScriptAssemblies/Unity.AI.Navigation.Editor.ConversionSystem.dll</HintPath>
-      <Private>False</Private>
-    </Reference>
-    <Reference Include="Unity.Polyspatial.Entities">
-      <HintPath>Library/ScriptAssemblies/Unity.Polyspatial.Entities.dll</HintPath>
-      <Private>False</Private>
-    </Reference>
-    <Reference Include="Unity.Entities.Graphics">
-      <HintPath>Library/ScriptAssemblies/Unity.Entities.Graphics.dll</HintPath>
-      <Private>False</Private>
-    </Reference>
-    <Reference Include="Unity.XR.OpenXR.Features.MetaQuestSupport.Editor">
-      <HintPath>Library/ScriptAssemblies/Unity.XR.OpenXR.Features.MetaQuestSupport.Editor.dll</HintPath>
-      <Private>False</Private>
-    </Reference>
-    <Reference Include="Unity.XR.Simulation">
-      <HintPath>Library/ScriptAssemblies/Unity.XR.Simulation.dll</HintPath>
-      <Private>False</Private>
-    </Reference>
-    <Reference Include="Unity.XR.OpenXR">
-      <HintPath>Library/ScriptAssemblies/Unity.XR.OpenXR.dll</HintPath>
-      <Private>False</Private>
-    </Reference>
-    <Reference Include="Unity.Mathematics.Extensions.Hybrid">
-      <HintPath>Library/ScriptAssemblies/Unity.Mathematics.Extensions.Hybrid.dll</HintPath>
-      <Private>False</Private>
-    </Reference>
-    <Reference Include="Unity.Scenes.Editor">
-      <HintPath>Library/ScriptAssemblies/Unity.Scenes.Editor.dll</HintPath>
-      <Private>False</Private>
-    </Reference>
-    <Reference Include="Unity.Entities.Editor.Properties">
-      <HintPath>Library/ScriptAssemblies/Unity.Entities.Editor.Properties.dll</HintPath>
-      <Private>False</Private>
-    </Reference>
-    <Reference Include="Unity.RenderPipelines.Core.Runtime">
-      <HintPath>Library/ScriptAssemblies/Unity.RenderPipelines.Core.Runtime.dll</HintPath>
-      <Private>False</Private>
-    </Reference>
-    <Reference Include="Unity.VisualScripting.Flow">
-      <HintPath>Library/ScriptAssemblies/Unity.VisualScripting.Flow.dll</HintPath>
-      <Private>False</Private>
-    </Reference>
-    <Reference Include="Unity.XR.CoreUtils.Editor">
-      <HintPath>Library/ScriptAssemblies/Unity.XR.CoreUtils.Editor.dll</HintPath>
-      <Private>False</Private>
-    </Reference>
-    <Reference Include="UnityEditor.SpatialTracking">
-      <HintPath>Library/ScriptAssemblies/UnityEditor.SpatialTracking.dll</HintPath>
-      <Private>False</Private>
-    </Reference>
-    <Reference Include="Unity.RenderPipelines.Universal.2D.Runtime">
-      <HintPath>Library/ScriptAssemblies/Unity.RenderPipelines.Universal.2D.Runtime.dll</HintPath>
-      <Private>False</Private>
-    </Reference>
-    <Reference Include="Unity.PolySpatial.Extensions.Editor">
-      <HintPath>Library/ScriptAssemblies/Unity.PolySpatial.Extensions.Editor.dll</HintPath>
-      <Private>False</Private>
-    </Reference>
-    <Reference Include="Unity.InputSystem.ForUI">
-      <HintPath>Library/ScriptAssemblies/Unity.InputSystem.ForUI.dll</HintPath>
-      <Private>False</Private>
-    </Reference>
-    <Reference Include="UnityEditor.UI">
-      <HintPath>Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
-      <Private>False</Private>
-    </Reference>
-    <Reference Include="Unity.Searcher.Editor">
-      <HintPath>Library/ScriptAssemblies/Unity.Searcher.Editor.dll</HintPath>
-      <Private>False</Private>
-    </Reference>
-    <Reference Include="Unity.PolySpatial.Analytics.Editor">
-      <HintPath>Library/ScriptAssemblies/Unity.PolySpatial.Analytics.Editor.dll</HintPath>
-      <Private>False</Private>
-    </Reference>
-    <Reference Include="Unity.Rider.Editor">
-      <HintPath>Library/ScriptAssemblies/Unity.Rider.Editor.dll</HintPath>
-      <Private>False</Private>
-    </Reference>
-    <Reference Include="Unity.XR.OpenXR.Features.ConformanceAutomation">
-      <HintPath>Library/ScriptAssemblies/Unity.XR.OpenXR.Features.ConformanceAutomation.dll</HintPath>
-      <Private>False</Private>
-    </Reference>
-    <Reference Include="R3.Unity">
-      <HintPath>Library/ScriptAssemblies/R3.Unity.dll</HintPath>
-      <Private>False</Private>
-    </Reference>
-    <Reference Include="Unity.XR.OpenXR.Features.OculusQuestSupport">
-      <HintPath>Library/ScriptAssemblies/Unity.XR.OpenXR.Features.OculusQuestSupport.dll</HintPath>
-      <Private>False</Private>
-    </Reference>
-    <Reference Include="Unity.Transforms.Hybrid">
-      <HintPath>Library/ScriptAssemblies/Unity.Transforms.Hybrid.dll</HintPath>
-      <Private>False</Private>
-    </Reference>
-    <Reference Include="Unity.XR.ARFoundation.InternalUtils.Editor">
-      <HintPath>Library/ScriptAssemblies/Unity.XR.ARFoundation.InternalUtils.Editor.dll</HintPath>
-      <Private>False</Private>
-    </Reference>
-    <Reference Include="Unity.RenderPipeline.Universal.ShaderLibrary">
-      <HintPath>Library/ScriptAssemblies/Unity.RenderPipeline.Universal.ShaderLibrary.dll</HintPath>
-      <Private>False</Private>
-    </Reference>
-    <Reference Include="Unity.RenderPipelines.Universal.Shaders">
-      <HintPath>Library/ScriptAssemblies/Unity.RenderPipelines.Universal.Shaders.dll</HintPath>
-      <Private>False</Private>
-    </Reference>
-    <Reference Include="Unity.RenderPipelines.Core.Runtime.Shared">
-      <HintPath>Library/ScriptAssemblies/Unity.RenderPipelines.Core.Runtime.Shared.dll</HintPath>
-      <Private>False</Private>
-    </Reference>
-    <Reference Include="Unity.Timeline.Editor">
-      <HintPath>Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
-      <Private>False</Private>
-    </Reference>
-    <Reference Include="Unity.RenderPipelines.Core.Editor.Shared">
-      <HintPath>Library/ScriptAssemblies/Unity.RenderPipelines.Core.Editor.Shared.dll</HintPath>
-      <Private>False</Private>
-    </Reference>
-    <Reference Include="UnityEngine.UI">
-      <HintPath>Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
-      <Private>False</Private>
-    </Reference>
-    <Reference Include="Unity.Entities.UI.Editor">
-      <HintPath>Library/ScriptAssemblies/Unity.Entities.UI.Editor.dll</HintPath>
-      <Private>False</Private>
-    </Reference>
-    <Reference Include="Unity.ScriptableBuildPipeline.Editor">
-      <HintPath>Library/ScriptAssemblies/Unity.ScriptableBuildPipeline.Editor.dll</HintPath>
-      <Private>False</Private>
-    </Reference>
-    <Reference Include="Unity.Mathematics.Editor">
-      <HintPath>Library/ScriptAssemblies/Unity.Mathematics.Editor.dll</HintPath>
-      <Private>False</Private>
-    </Reference>
-    <Reference Include="Unity.XR.ARFoundation">
-      <HintPath>Library/ScriptAssemblies/Unity.XR.ARFoundation.dll</HintPath>
-      <Private>False</Private>
-    </Reference>
-    <Reference Include="UnityEditor.XR.LegacyInputHelpers">
-      <HintPath>Library/ScriptAssemblies/UnityEditor.XR.LegacyInputHelpers.dll</HintPath>
-      <Private>False</Private>
-    </Reference>
-    <Reference Include="Unity.XR.Hands.Analytics.Hooks.Editor">
-      <HintPath>Library/ScriptAssemblies/Unity.XR.Hands.Analytics.Hooks.Editor.dll</HintPath>
-      <Private>False</Private>
-    </Reference>
-    <Reference Include="Unity.ScriptableBuildPipeline">
-      <HintPath>Library/ScriptAssemblies/Unity.ScriptableBuildPipeline.dll</HintPath>
-      <Private>False</Private>
-    </Reference>
-    <Reference Include="Unity.Collections">
-      <HintPath>Library/ScriptAssemblies/Unity.Collections.dll</HintPath>
-      <Private>False</Private>
-    </Reference>
-    <Reference Include="Unity.XR.ARCore.Editor">
-      <HintPath>Library/ScriptAssemblies/Unity.XR.ARCore.Editor.dll</HintPath>
-      <Private>False</Private>
-    </Reference>
-    <Reference Include="Unity.XR.ARSubsystems">
-      <HintPath>Library/ScriptAssemblies/Unity.XR.ARSubsystems.dll</HintPath>
-      <Private>False</Private>
-    </Reference>
-    <Reference Include="Unity.InternalAPIEditorBridge.021">
-      <HintPath>Library/ScriptAssemblies/Unity.InternalAPIEditorBridge.021.dll</HintPath>
-      <Private>False</Private>
-    </Reference>
-    <Reference Include="Unity.XR.ARKit.Editor">
-      <HintPath>Library/ScriptAssemblies/Unity.XR.ARKit.Editor.dll</HintPath>
-      <Private>False</Private>
-    </Reference>
-    <Reference Include="Unity.Rendering.LightTransport.Editor">
-      <HintPath>Library/ScriptAssemblies/Unity.Rendering.LightTransport.Editor.dll</HintPath>
-      <Private>False</Private>
-    </Reference>
-    <Reference Include="Unity.XR.Management.Editor">
-      <HintPath>Library/ScriptAssemblies/Unity.XR.Management.Editor.dll</HintPath>
-      <Private>False</Private>
-    </Reference>
-    <Reference Include="Unity.XR.ARFoundation.VisualScripting">
-      <HintPath>Library/ScriptAssemblies/Unity.XR.ARFoundation.VisualScripting.dll</HintPath>
-      <Private>False</Private>
-    </Reference>
-    <Reference Include="Unity.InternalAPIEngineBridge.021">
-      <HintPath>Library/ScriptAssemblies/Unity.InternalAPIEngineBridge.021.dll</HintPath>
-      <Private>False</Private>
-    </Reference>
-    <Reference Include="UnityEngine.XR.LegacyInputHelpers">
-      <HintPath>Library/ScriptAssemblies/UnityEngine.XR.LegacyInputHelpers.dll</HintPath>
-      <Private>False</Private>
-    </Reference>
-    <Reference Include="Unity.PolySpatial.RealityKit.Editor">
-      <HintPath>Library/ScriptAssemblies/Unity.PolySpatial.RealityKit.Editor.dll</HintPath>
-      <Private>False</Private>
-    </Reference>
-    <Reference Include="Unity.PolySpatial.Validation.Editor">
-      <HintPath>Library/ScriptAssemblies/Unity.PolySpatial.Validation.Editor.dll</HintPath>
-      <Private>False</Private>
-    </Reference>
-    <Reference Include="FlatSharp.Runtime.Extensions">
-      <HintPath>Library/ScriptAssemblies/FlatSharp.Runtime.Extensions.dll</HintPath>
-      <Private>False</Private>
-    </Reference>
-    <Reference Include="Unity.XR.OpenXR.Features.RuntimeDebugger.Editor">
-      <HintPath>Library/ScriptAssemblies/Unity.XR.OpenXR.Features.RuntimeDebugger.Editor.dll</HintPath>
-      <Private>False</Private>
-    </Reference>
-    <Reference Include="Unity.XR.Quantum.Editor.ShaderGraph">
-      <HintPath>Library/ScriptAssemblies/Unity.XR.Quantum.Editor.ShaderGraph.dll</HintPath>
-      <Private>False</Private>
-    </Reference>
-    <Reference Include="Unity.Entities.Hybrid">
-      <HintPath>Library/ScriptAssemblies/Unity.Entities.Hybrid.dll</HintPath>
-      <Private>False</Private>
-    </Reference>
-    <Reference Include="Unity.XR.ARKit.FaceTracking">
-      <HintPath>Library/ScriptAssemblies/Unity.XR.ARKit.FaceTracking.dll</HintPath>
-      <Private>False</Private>
-    </Reference>
-    <Reference Include="Unity.PolySpatial.XR.Editor">
-      <HintPath>Library/ScriptAssemblies/Unity.PolySpatial.XR.Editor.dll</HintPath>
-      <Private>False</Private>
-    </Reference>
-    <Reference Include="Unity.Multiplayer.Center.Common">
-      <HintPath>Library/ScriptAssemblies/Unity.Multiplayer.Center.Common.dll</HintPath>
-      <Private>False</Private>
-    </Reference>
-    <Reference Include="Unity.XR.ARKit">
-      <HintPath>Library/ScriptAssemblies/Unity.XR.ARKit.dll</HintPath>
-      <Private>False</Private>
-    </Reference>
-    <Reference Include="Unity.VisualScripting.Flow.Editor">
-      <HintPath>Library/ScriptAssemblies/Unity.VisualScripting.Flow.Editor.dll</HintPath>
-      <Private>False</Private>
-    </Reference>
-    <Reference Include="Unity.Transforms">
-      <HintPath>Library/ScriptAssemblies/Unity.Transforms.dll</HintPath>
-      <Private>False</Private>
-    </Reference>
-    <Reference Include="Unity.PolySpatial.Editor">
-      <HintPath>Library/ScriptAssemblies/Unity.PolySpatial.Editor.dll</HintPath>
-      <Private>False</Private>
-    </Reference>
     <Reference Include="Unity.XR.ARAnalytics.Editor">
       <HintPath>Library/ScriptAssemblies/Unity.XR.ARAnalytics.Editor.dll</HintPath>
       <Private>False</Private>
     </Reference>
-    <Reference Include="Unity.Scenes">
-      <HintPath>Library/ScriptAssemblies/Unity.Scenes.dll</HintPath>
+    <Reference Include="Unity.Services.Core.Analytics">
+      <HintPath>Library/ScriptAssemblies/Unity.Services.Core.Analytics.dll</HintPath>
       <Private>False</Private>
     </Reference>
     <Reference Include="Unity.XR.Interaction.Toolkit">
@@ -1712,14 +1305,6 @@
       <HintPath>Library/ScriptAssemblies/Unity.EditorCoroutines.Editor.dll</HintPath>
       <Private>False</Private>
     </Reference>
-    <Reference Include="Unity.VisualScripting.State.Editor">
-      <HintPath>Library/ScriptAssemblies/Unity.VisualScripting.State.Editor.dll</HintPath>
-      <Private>False</Private>
-    </Reference>
-    <Reference Include="Unity.PolySpatial.Analytics.Hooks.Editor">
-      <HintPath>Library/ScriptAssemblies/Unity.PolySpatial.Analytics.Hooks.Editor.dll</HintPath>
-      <Private>False</Private>
-    </Reference>
     <Reference Include="Unity.AI.Navigation.Editor">
       <HintPath>Library/ScriptAssemblies/Unity.AI.Navigation.Editor.dll</HintPath>
       <Private>False</Private>
@@ -1728,90 +1313,70 @@
       <HintPath>Library/ScriptAssemblies/Unity.Mathematics.dll</HintPath>
       <Private>False</Private>
     </Reference>
-    <Reference Include="Unity.Networking.Transport">
-      <HintPath>Library/ScriptAssemblies/Unity.Networking.Transport.dll</HintPath>
-      <Private>False</Private>
-    </Reference>
-    <Reference Include="Unity.RenderPipelines.Core.Editor">
-      <HintPath>Library/ScriptAssemblies/Unity.RenderPipelines.Core.Editor.dll</HintPath>
-      <Private>False</Private>
-    </Reference>
-    <Reference Include="Unity.XR.OpenXR.Features.MetaQuestSupport">
-      <HintPath>Library/ScriptAssemblies/Unity.XR.OpenXR.Features.MetaQuestSupport.dll</HintPath>
+    <Reference Include="Unity.XR.ARFoundation.Editor">
+      <HintPath>Library/ScriptAssemblies/Unity.XR.ARFoundation.Editor.dll</HintPath>
       <Private>False</Private>
     </Reference>
     <Reference Include="Unity.XR.ARCore">
       <HintPath>Library/ScriptAssemblies/Unity.XR.ARCore.dll</HintPath>
       <Private>False</Private>
     </Reference>
-    <Reference Include="Unity.XR.ARFoundation.Editor">
-      <HintPath>Library/ScriptAssemblies/Unity.XR.ARFoundation.Editor.dll</HintPath>
+    <Reference Include="Analytics">
+      <HintPath>Library/ScriptAssemblies/Analytics.dll</HintPath>
       <Private>False</Private>
     </Reference>
     <Reference Include="Unity.XR.Interaction.Toolkit.Analytics.Editor">
       <HintPath>Library/ScriptAssemblies/Unity.XR.Interaction.Toolkit.Analytics.Editor.dll</HintPath>
       <Private>False</Private>
     </Reference>
-    <Reference Include="Unity.Postprocessing.Runtime">
-      <HintPath>Library/ScriptAssemblies/Unity.Postprocessing.Runtime.dll</HintPath>
+    <Reference Include="Unity.Services.Core.Environments">
+      <HintPath>Library/ScriptAssemblies/Unity.Services.Core.Environments.dll</HintPath>
       <Private>False</Private>
     </Reference>
-    <Reference Include="Unity.PolySpatial.RealityKit.PlayToDevice.Editor">
-      <HintPath>Library/ScriptAssemblies/Unity.PolySpatial.RealityKit.PlayToDevice.Editor.dll</HintPath>
+    <Reference Include="Unity.2D.Sprite.Editor">
+      <HintPath>Library/ScriptAssemblies/Unity.2D.Sprite.Editor.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Unity.AI.Navigation.Editor.ConversionSystem">
+      <HintPath>Library/ScriptAssemblies/Unity.AI.Navigation.Editor.ConversionSystem.dll</HintPath>
       <Private>False</Private>
     </Reference>
     <Reference Include="Unity.TextMeshPro.Editor">
       <HintPath>Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
       <Private>False</Private>
     </Reference>
-    <Reference Include="Unity.Burst.Editor">
-      <HintPath>Library/ScriptAssemblies/Unity.Burst.Editor.dll</HintPath>
+    <Reference Include="UnityEngine.Purchasing.Stores">
+      <HintPath>Library/ScriptAssemblies/UnityEngine.Purchasing.Stores.dll</HintPath>
       <Private>False</Private>
     </Reference>
-    <Reference Include="Unity.Entities.Hybrid.HybridComponents">
-      <HintPath>Library/ScriptAssemblies/Unity.Entities.Hybrid.HybridComponents.dll</HintPath>
-      <Private>False</Private>
-    </Reference>
-    <Reference Include="Unity.Burst">
-      <HintPath>Library/ScriptAssemblies/Unity.Burst.dll</HintPath>
+    <Reference Include="Unity.Services.Core">
+      <HintPath>Library/ScriptAssemblies/Unity.Services.Core.dll</HintPath>
       <Private>False</Private>
     </Reference>
     <Reference Include="Unity.VisualStudio.Editor">
       <HintPath>Library/ScriptAssemblies/Unity.VisualStudio.Editor.dll</HintPath>
       <Private>False</Private>
     </Reference>
-    <Reference Include="Unity.Entities.UI">
-      <HintPath>Library/ScriptAssemblies/Unity.Entities.UI.dll</HintPath>
+    <Reference Include="Unity.XR.Simulation">
+      <HintPath>Library/ScriptAssemblies/Unity.XR.Simulation.dll</HintPath>
       <Private>False</Private>
     </Reference>
-    <Reference Include="Unity.Entities">
-      <HintPath>Library/ScriptAssemblies/Unity.Entities.dll</HintPath>
+    <Reference Include="Unity.XR.CoreUtils.Editor">
+      <HintPath>Library/ScriptAssemblies/Unity.XR.CoreUtils.Editor.dll</HintPath>
       <Private>False</Private>
     </Reference>
-    <Reference Include="Unity.Rendering.LightTransport.Runtime">
-      <HintPath>Library/ScriptAssemblies/Unity.Rendering.LightTransport.Runtime.dll</HintPath>
+    <Reference Include="UnityEditor.SpatialTracking">
+      <HintPath>Library/ScriptAssemblies/UnityEditor.SpatialTracking.dll</HintPath>
       <Private>False</Private>
     </Reference>
     <Reference Include="Unity.InputSystem">
       <HintPath>Library/ScriptAssemblies/Unity.InputSystem.dll</HintPath>
       <Private>False</Private>
     </Reference>
-    <Reference Include="Unity.Entities.Editor">
-      <HintPath>Library/ScriptAssemblies/Unity.Entities.Editor.dll</HintPath>
-      <Private>False</Private>
-    </Reference>
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="Unity.XR.Interaction.Toolkit.Samples.ARStarterAssets.csproj" />
-    <ProjectReference Include="Unity.XR.Hands.Samples.VisualizerSample.csproj" />
-    <ProjectReference Include="Unity.XR.Interaction.Toolkit.Samples.StarterAssets.csproj" />
     <ProjectReference Include="Graffity.HandGesture.csproj" />
     <ProjectReference Include="Graffity.HandGesture.Editor.csproj" />
-    <ProjectReference Include="Unity.XR.Hands.Samples.Gestures.csproj" />
-    <ProjectReference Include="Unity.XR.Interaction.Toolkit.Samples.VisionOS.csproj" />
-    <ProjectReference Include="Unity.XR.Interaction.Toolkit.Samples.ARStarterAssets.Editor.csproj" />
-    <ProjectReference Include="Unity.XR.Interaction.Toolkit.Samples.VisionOS.Editor.csproj" />
-    <ProjectReference Include="Unity.XR.Interaction.Toolkit.Samples.StarterAssets.Editor.csproj" />
   </ItemGroup>
   <Import Project="Sdk.targets" Sdk="Microsoft.NET.Sdk" />
   <ItemGroup>

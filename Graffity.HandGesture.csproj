@@ -46,50 +46,38 @@
     <Analyzer Include="/Applications/Unity/Hub/Editor/6000.0.49f1/Unity.app/Contents/Tools/Unity.SourceGenerators/Unity.SourceGenerators.dll" />
     <Analyzer Include="/Applications/Unity/Hub/Editor/6000.0.49f1/Unity.app/Contents/Tools/Unity.SourceGenerators/Unity.Properties.SourceGenerator.dll" />
     <Analyzer Include="/Applications/Unity/Hub/Editor/6000.0.49f1/Unity.app/Contents/Tools/Unity.SourceGenerators/Unity.UIToolkit.SourceGenerator.dll" />
-    <Analyzer Include="/Users/tdu.yamazaki.lab/Breaking_blocks/Library/PackageCache/com.unity.entities@1eebe0437e56/Unity.Entities/SourceGenerators/AspectGenerator.dll" />
-    <Analyzer Include="/Users/tdu.yamazaki.lab/Breaking_blocks/Library/PackageCache/com.unity.entities@1eebe0437e56/Unity.Entities/SourceGenerators/JobEntityGenerator.dll" />
-    <Analyzer Include="/Users/tdu.yamazaki.lab/Breaking_blocks/Library/PackageCache/com.unity.entities@1eebe0437e56/Unity.Entities/SourceGenerators/SystemGenerator.dll" />
-    <Analyzer Include="/Users/tdu.yamazaki.lab/Breaking_blocks/Library/PackageCache/com.unity.entities@1eebe0437e56/Unity.Entities/SourceGenerators/Unity.Entities.Analyzer.dll" />
-    <Analyzer Include="/Users/tdu.yamazaki.lab/Breaking_blocks/Library/PackageCache/com.unity.entities@1eebe0437e56/Unity.Entities/SourceGenerators/SystemGenerator.LambdaJobs.dll" />
-    <Analyzer Include="/Users/tdu.yamazaki.lab/Breaking_blocks/Library/PackageCache/com.unity.entities@1eebe0437e56/Unity.Entities/SourceGenerators/SystemGenerator.SystemAPI.QueryBuilder.dll" />
-    <Analyzer Include="/Users/tdu.yamazaki.lab/Breaking_blocks/Library/PackageCache/com.unity.entities@1eebe0437e56/Unity.Entities/SourceGenerators/SystemGenerator.SystemAPI.dll" />
-    <Analyzer Include="/Users/tdu.yamazaki.lab/Breaking_blocks/Library/PackageCache/com.unity.entities@1eebe0437e56/Unity.Entities/SourceGenerators/SystemGenerator.SystemAPI.Query.dll" />
-    <Analyzer Include="/Users/tdu.yamazaki.lab/Breaking_blocks/Library/PackageCache/com.unity.entities@1eebe0437e56/Unity.Entities/SourceGenerators/SystemGenerator.Common.dll" />
-    <Analyzer Include="/Users/tdu.yamazaki.lab/Breaking_blocks/Library/PackageCache/com.unity.entities@1eebe0437e56/Unity.Entities/SourceGenerators/Common.dll" />
-    <Analyzer Include="/Users/tdu.yamazaki.lab/Breaking_blocks/Library/PackageCache/com.unity.entities@1eebe0437e56/Unity.Entities/SourceGenerators/SystemGenerator.EntityQueryBulkOperations.dll" />
-    <Analyzer Include="/Users/tdu.yamazaki.lab/Breaking_blocks/Library/PackageCache/com.unity.entities@1eebe0437e56/Unity.Entities/SourceGenerators/Unity.Entities.Analyzer.CodeFixes.dll" />
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets/Graffity.HandGesture/Runtime/Scripts/Gesture.cs" />
-    <Compile Include="Assets/Graffity.HandGesture/Runtime/Scripts/GestureManager.cs" />
-    <Compile Include="Assets/Graffity.HandGesture/Runtime/Scripts/Conditions/SequenceEventRepositoryInterface.cs" />
-    <Compile Include="Assets/Graffity.HandGesture/Runtime/Scripts/Conditions/HandsDistance.cs" />
-    <Compile Include="Assets/Graffity.HandGesture/Runtime/Scripts/Conditions/HandPosition.cs" />
-    <Compile Include="Assets/Graffity.HandGesture/Runtime/Scripts/Extentions/XRHandExtention.cs" />
-    <Compile Include="Assets/Graffity.HandGesture/Runtime/Scripts/Conditions/HandMoveDirection.cs" />
-    <Compile Include="Assets/Graffity.HandGesture/Runtime/Scripts/Conditions/GestureCheck.cs" />
-    <Compile Include="Assets/Graffity.HandGesture/Runtime/Scripts/Conditions/HandsDirection.cs" />
-    <Compile Include="Assets/Graffity.HandGesture/Runtime/Scripts/Conditions/Loop.cs" />
-    <Compile Include="Assets/Graffity.HandGesture/Runtime/Scripts/Conditions/Data/JointData.cs" />
-    <Compile Include="Assets/Graffity.HandGesture/Runtime/Scripts/Conditions/OR.cs" />
-    <Compile Include="Assets/Graffity.HandGesture/Runtime/Scripts/Conditions/ConditionInstance.cs" />
-    <Compile Include="Assets/Graffity.HandGesture/Runtime/Scripts/GestureInterface.cs" />
-    <Compile Include="Assets/Graffity.HandGesture/Runtime/Scripts/Conditions/SequenceEventRepository.cs" />
     <Compile Include="Assets/Graffity.HandGesture/Runtime/Scripts/Conditions/ConditionInstanceGenerator.cs" />
     <Compile Include="Assets/Graffity.HandGesture/Runtime/Scripts/HandInfo.cs" />
     <Compile Include="Assets/Graffity.HandGesture/Runtime/Scripts/Conditions/SequenceInterface.cs" />
     <Compile Include="Assets/Graffity.HandGesture/Runtime/Scripts/Conditions/JointDistance.cs" />
+    <Compile Include="Assets/Graffity.HandGesture/Runtime/Scripts/GestureManager.cs" />
     <Compile Include="Assets/Graffity.HandGesture/Runtime/Scripts/Conditions/HandMove.cs" />
+    <Compile Include="Assets/Graffity.HandGesture/Runtime/Scripts/Conditions/SequenceEventRepositoryInterface.cs" />
+    <Compile Include="Assets/Graffity.HandGesture/Runtime/Scripts/Conditions/HandsDistance.cs" />
+    <Compile Include="Assets/Graffity.HandGesture/Runtime/Scripts/Conditions/HandPosition.cs" />
     <Compile Include="Assets/Graffity.HandGesture/Runtime/Scripts/Conditions/HandMoveDistance.cs" />
     <Compile Include="Assets/Graffity.HandGesture/Runtime/Scripts/Conditions/ConditionInstanceRepository.cs" />
+    <Compile Include="Assets/Graffity.HandGesture/Runtime/Scripts/Extentions/XRHandExtention.cs" />
     <Compile Include="Assets/Graffity.HandGesture/Runtime/Scripts/GestureAsset.cs" />
     <Compile Include="Assets/Graffity.HandGesture/Runtime/Scripts/Conditions/GestureStateCheck.cs" />
+    <Compile Include="Assets/Graffity.HandGesture/Runtime/Scripts/Conditions/HandMoveDirection.cs" />
     <Compile Include="Assets/Graffity.HandGesture/Runtime/Scripts/Conditions/ConditionInterface.cs" />
+    <Compile Include="Assets/Graffity.HandGesture/Runtime/Scripts/Conditions/GestureCheck.cs" />
+    <Compile Include="Assets/Graffity.HandGesture/Runtime/Scripts/Conditions/HandsDirection.cs" />
+    <Compile Include="Assets/Graffity.HandGesture/Runtime/Scripts/Conditions/Loop.cs" />
     <Compile Include="Assets/Graffity.HandGesture/Runtime/Scripts/Conditions/JointRotation.cs" />
     <Compile Include="Assets/Graffity.HandGesture/Runtime/Scripts/Conditions/AND.cs" />
     <Compile Include="Assets/Graffity.HandGesture/Runtime/Scripts/Conditions/Sequence.cs" />
+    <Compile Include="Assets/Graffity.HandGesture/Runtime/Scripts/Conditions/Data/JointData.cs" />
+    <Compile Include="Assets/Graffity.HandGesture/Runtime/Scripts/Conditions/OR.cs" />
+    <Compile Include="Assets/Graffity.HandGesture/Runtime/Scripts/Conditions/ConditionInstance.cs" />
+    <Compile Include="Assets/Graffity.HandGesture/Runtime/Scripts/GestureInterface.cs" />
     <Compile Include="Assets/Graffity.HandGesture/Runtime/Scripts/Conditions/JoinHandsTogether.cs" />
     <Compile Include="Assets/Graffity.HandGesture/Runtime/Scripts/Conditions/ConditionAsset.cs" />
+    <Compile Include="Assets/Graffity.HandGesture/Runtime/Scripts/Conditions/SequenceEventRepository.cs" />
     <Compile Include="Assets/Graffity.HandGesture/Runtime/Scripts/JointInfo.cs" />
     <Compile Include="Assets/Graffity.HandGesture/Runtime/Scripts/Conditions/GestureStateUpdate.cs" />
     <Compile Include="Assets/Graffity.HandGesture/Runtime/Scripts/Attributes/ConditionsSelectorAttribute.cs" />
@@ -572,10 +560,6 @@
     </Reference>
     <Reference Include="UnityEditor.iOS.Extensions">
       <HintPath>/Applications/Unity/Hub/Editor/6000.0.49f1/PlaybackEngines/iOSSupport/UnityEditor.iOS.Extensions.dll</HintPath>
-      <Private>False</Private>
-    </Reference>
-    <Reference Include="R3">
-      <HintPath>Assets/Packages/R3.1.3.0/lib/netstandard2.1/R3.dll</HintPath>
       <Private>False</Private>
     </Reference>
     <Reference Include="UnityEditor.iOS.Extensions.Xcode">
