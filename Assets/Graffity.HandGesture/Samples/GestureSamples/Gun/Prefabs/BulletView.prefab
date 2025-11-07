@@ -48,7 +48,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ee971359f229f4b9380ab50425dda030, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  decalPrefab: {fileID: 0}
+  decalPrefab: {fileID: 854410021195669006, guid: 0075622aa212046e18e84c2dec9975a9, type: 3}
   decalLifeTime: 5
 --- !u!54 &7468191932692797393
 Rigidbody:

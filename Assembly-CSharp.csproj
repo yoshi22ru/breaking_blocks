@@ -106,8 +106,8 @@
     <Compile Include="Assets/TextMesh Pro/Examples &amp; Extras/Scripts/TMP_FrameRateCounter.cs" />
     <Compile Include="Assets/Graffity.HandGesture/Samples/GestureSamples/Gun/Scripts/StateWindowViewModel.cs" />
     <Compile Include="Assets/Graffity.HandGesture/Samples/GestureSamples/Beam/Scripts/TargetViewModel.cs" />
-    <Compile Include="Assets/TextMesh Pro/Examples &amp; Extras/Scripts/TextMeshSpawner.cs" />
     <Compile Include="Assets/TextMesh Pro/Examples &amp; Extras/Scripts/Benchmark01.cs" />
+    <Compile Include="Assets/TextMesh Pro/Examples &amp; Extras/Scripts/TextMeshSpawner.cs" />
     <Compile Include="Assets/Graffity.HandGesture/Samples/GestureSamples/Beam/Scripts/BeamView.cs" />
     <Compile Include="Assets/Graffity.HandGesture/Samples/GestureSamples/Beam/Scripts/BeamViewModel.cs" />
     <Compile Include="Assets/TextMesh Pro/Examples &amp; Extras/Scripts/CameraController.cs" />
@@ -125,8 +125,8 @@
     <Compile Include="Assets/Graffity.HandGesture/Samples/GestureSamples/Gun/Scripts/TargetViewModel.cs" />
     <Compile Include="Assets/Graffity.HandGesture/Samples/GestureSamples/Shuriken/Scripts/StateWindowViewModel.cs" />
     <Compile Include="Assets/RemainingShotsView.cs" />
-    <Compile Include="Assets/TextMesh Pro/Examples &amp; Extras/Scripts/TeleType.cs" />
     <Compile Include="Assets/TextMesh Pro/Examples &amp; Extras/Scripts/TextConsoleSimulator.cs" />
+    <Compile Include="Assets/TextMesh Pro/Examples &amp; Extras/Scripts/TeleType.cs" />
     <Compile Include="Assets/TextMesh Pro/Examples &amp; Extras/Scripts/TMP_TextEventCheck.cs" />
     <Compile Include="Assets/Graffity.HandGesture/Samples/GestureSamples/Shuriken/Scripts/TargetViewModel.cs" />
     <Compile Include="Assets/Graffity.HandGesture/Samples/GestureSamples/Beam/Scripts/TriggerEvent.cs" />
@@ -1784,8 +1784,8 @@
     <ProjectReference Include="Graffity.HandGesture.csproj" />
     <ProjectReference Include="Graffity.HandGesture.Editor.csproj" />
     <ProjectReference Include="Unity.XR.Interaction.Toolkit.Samples.VisionOS.Editor.csproj" />
-    <ProjectReference Include="Unity.XR.Interaction.Toolkit.Samples.StarterAssets.Editor.csproj" />
     <ProjectReference Include="Unity.XR.Hands.Samples.Gestures.csproj" />
+    <ProjectReference Include="Unity.XR.Interaction.Toolkit.Samples.StarterAssets.Editor.csproj" />
     <ProjectReference Include="Unity.XR.Hands.Samples.Gestures.Editor.csproj" />
   </ItemGroup>
   <Import Project="Sdk.targets" Sdk="Microsoft.NET.Sdk" />
