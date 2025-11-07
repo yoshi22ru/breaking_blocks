@@ -12,13 +12,22 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1e639827a9988b842a70fa5835541872, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  m_ConnectToPlayToDevice: 0
+  m_ConnectToPlayToDevice: 1
   m_PlayToDeviceDisabledTrackers: []
   m_MaximumNumOfAudioPacketsPerFrame: 4
   m_ConnectionTimeout: 2
   m_ConnectionCandidates:
-    m_Connections: []
-    m_ConnectionsInfo: []
+    m_Connections:
+    - m_IP: 192.168.11.4
+      m_ServerPort: 9876
+    m_ConnectionsInfo:
+    - IP: 192.168.11.4
+      Name: localhost
+      ServerPort: 9876
+      Status: 1
+      HostPolySpatialVersion: 2.4.3
+      HostPolySpatialMagicCookie: 1754062704675767000
+      IsSelected: 1
   m_PlayToDeviceLimitFPSEnable: 1
   m_PlayToDeviceLimitFPS: 45
   m_PlayToDeviceDynamicallyAdjustFPSEnable: 1
