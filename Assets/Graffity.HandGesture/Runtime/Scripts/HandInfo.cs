@@ -94,11 +94,24 @@ namespace Graffity.HandGesture
         {
             foreach (XRHandJointID jointID in Enum.GetValues(typeof(XRHandJointID)))
             {
+                // ★修正点 1: ここで無効なジョイントIDをチェックしてスキップ
+                // UnityのXR Handsシステムが返す無効な値（Index -1）を排除します。
+                
+                // ジョイントIDが有効な範囲外の場合はスキップ (通常、-1や不明な値)
+                if (jointID == XRHandJointID.Invalid || (int)jointID < 0) 
+                {
+                    continue; 
+                }
+                
                 AddJointInfo(jointID);
             }
-#if UNITY_VISIONOS
-            AddJointInfo((XRHandJointID)UnityEngine.XR.VisionOS.VisionOSHandJointID.ForearmArm);
-#endif
+        #if UNITY_VISIONOS
+            // VisionOS固有のジョイントも同様にチェック（もしあれば）
+            if ((int)UnityEngine.XR.VisionOS.VisionOSHandJointID.ForearmArm > 0)
+            {
+                AddJointInfo((XRHandJointID)UnityEngine.XR.VisionOS.VisionOSHandJointID.ForearmArm);
+            }
+        #endif
             foreach (var jointInfo in m_jointInfoList)
             {
                 jointInfo.Value.Update(this);
